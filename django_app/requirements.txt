@@ -1,0 +1,7 @@
+django
+django-crispy==1.8.1
+djangorestframework==3.12.4
+django-heroku
+openai
+gunicorn
+
